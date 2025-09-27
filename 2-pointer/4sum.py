@@ -39,7 +39,6 @@ class Solution(object):
                         start += 1
                     else:
                         end -= 1
-        
         return result
     
     # Test case
